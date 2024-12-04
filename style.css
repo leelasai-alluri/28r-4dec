@@ -1,0 +1,30 @@
+.container{
+    height: 420px;
+    width: 700px;
+    border: 2px solid red;
+    
+
+}
+
+
+.item-1 , .item-2 , .item-3{
+    height: 400px;
+    width: 200px;
+    vertical-align: top;
+
+    border: 2px solid black;
+    /* display: inline-block; */
+    margin: 10px;
+    text-align: center;
+    font-size: medium;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+.item-1 , .item-2 , .item-3{
+    display: inline-block;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
